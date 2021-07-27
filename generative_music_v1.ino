@@ -5,7 +5,7 @@
  *    Date:       April 20 2021
  * 
  *    Brief:      This uses algorithmic generation to create a musical sequence based on user inputs, and outputs MIDI signal with MIDI clock functionality.
- *                This program is not separated into classes and functions yet, but I am working on a separate version to allow user-defined inputs and controls
+ *                This program is not separated into classes yet, but I am working on a separate version to allow user-defined inputs and controls
  *                for adaptation into other embedded systems.
  *                As well, I am working on developing this deeper into further functionality with accompaniment, chord progressions, and countermelodies. 
  *                As of now, this program was written specifically for the hardware I've used but it is adaptable. Specifically the generator systems are functional for any use-case,
