@@ -1,7 +1,7 @@
 /*
  *    ARDUINO MUSIC GENERATOR - V1.0
  *    
- *    Author:     Nathan Price 100142522
+ *    Author:     Nathan Price
  *    Date:       April 20 2021
  * 
  *    Brief:      This uses algorithmic generation to create a musical sequence based on user inputs, and outputs MIDI signal with MIDI clock functionality.
